@@ -1,0 +1,21 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "/",
+  "webhook_url": "YOUR_WEBHOOK_URL_HERE",
+  "colors": {
+    "primary": "8B0000",
+    "success": "00FF00",
+    "warning": "FFA500",
+    "error": "FF0000",
+    "button": "6B4CFF"
+  },
+  "mute_role": "Muted",
+  "ticket_category": "Tickets",
+  "verification_role": "Verified",
+  "staff_role": "Staff",
+  "channels": {
+    "logs": null,
+    "tickets": null,
+    "verification": null
+  }
+}
